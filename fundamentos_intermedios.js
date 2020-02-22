@@ -85,10 +85,12 @@ function duplicado(arr){
         }
         a.push(arr[i]);
     }
-    return a;
+    return a; 
 }
 err=[4, "Ulysses", 42, false];
 console.log(duplicado(err));
+
+////////////////////////////////////
 
 
 
